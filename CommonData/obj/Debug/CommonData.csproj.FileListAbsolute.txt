@@ -1,0 +1,57 @@
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\CommonData\bin\Debug\CommonData.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\CommonData\bin\Debug\CommonData.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Debug\CommonData.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Debug\CommonData.pdb
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\bin\Debug\CommonData.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\bin\Debug\CommonData.pdb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\obj\Debug\CommonData.csproj.CoreCompileInputs.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\obj\Debug\CommonData.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\obj\Debug\CommonData.pdb
+C:\Users\Kodi\Desktop\CasualGames2017\CommonData\bin\Debug\CommonData.dll
+C:\Users\Kodi\Desktop\CasualGames2017\CommonData\bin\Debug\CommonData.pdb
+C:\Users\Kodi\Desktop\CasualGames2017\CommonData\obj\Debug\CommonData.dll
+C:\Users\Kodi\Desktop\CasualGames2017\CommonData\obj\Debug\CommonData.pdb
+C:\Users\Naka\Source\Repos\CasualGames2017\CommonData\bin\Debug\CommonData.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\CommonData\bin\Debug\CommonData.pdb
+C:\Users\Naka\Source\Repos\CasualGames2017\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+C:\Users\Naka\Source\Repos\CasualGames2017\CommonData\obj\Debug\CommonData.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\CommonData\obj\Debug\CommonData.pdb
+E:\CasualGames2017\CommonData\bin\Debug\CommonData.dll
+E:\CasualGames2017\CommonData\bin\Debug\CommonData.pdb
+E:\CasualGames2017\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+E:\CasualGames2017\CommonData\obj\Debug\CommonData.csproj.CoreCompileInputs.cache
+E:\CasualGames2017\CommonData\obj\Debug\CommonData.dll
+E:\CasualGames2017\CommonData\obj\Debug\CommonData.pdb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\CommonData.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\CommonData.pdb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\Newtonsoft.Json.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\Newtonsoft.Json.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.csproj.CoreCompileInputs.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.pdb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\CommonData.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\CommonData.pdb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.pdb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\CommonData.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\CommonData.pdb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\Newtonsoft.Json.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\bin\Debug\Newtonsoft.Json.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.csproj.CoreCompileInputs.cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\CommonData\bin\Debug\CommonData.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\CommonData\bin\Debug\CommonData.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\CommonData\bin\Debug\Newtonsoft.Json.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\CommonData\bin\Debug\Newtonsoft.Json.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.csproj.CoreCompileInputs.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.csproj.CopyComplete
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\CommonData\obj\Debug\CommonData.pdb

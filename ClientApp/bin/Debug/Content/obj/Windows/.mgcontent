@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/RAD302FinalProject/RAD302FinalProject/Rad302FinalPrj-GTeam/MonoGameClient/Content/keyboardfont.spritefont</File>
+    <File>H:/RAD302FinalProject/RAD302FinalProject/Rad302FinalPrj-GTeam/MonoGameClient/Content/Textures/Player 1.png</File>
+    <File>H:/RAD302FinalProject/RAD302FinalProject/Rad302FinalPrj-GTeam/MonoGameClient/Content/Textures/Player 2.png</File>
+    <File>H:/RAD302FinalProject/RAD302FinalProject/Rad302FinalPrj-GTeam/MonoGameClient/Content/Textures/Player 3.png</File>
+    <File>H:/RAD302FinalProject/RAD302FinalProject/Rad302FinalPrj-GTeam/MonoGameClient/Content/Textures/Player 4.png</File>
+    <File>H:/RAD302FinalProject/RAD302FinalProject/Rad302FinalPrj-GTeam/MonoGameClient/Content/Message.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

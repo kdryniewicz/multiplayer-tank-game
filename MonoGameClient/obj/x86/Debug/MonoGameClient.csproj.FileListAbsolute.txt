@@ -1,0 +1,252 @@
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.csproj.CoreCompileInputs.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\player.xnb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 1.xnb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 2.xnb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 3.xnb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 4.xnb
+C:\Users\Kodi\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Message.xnb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Message.xnb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 1.xnb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 2.xnb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 3.xnb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 4.xnb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\player.xnb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Naka\Source\Repos\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\player.xnb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Message.xnb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 1.xnb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 2.xnb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 3.xnb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 4.xnb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+C:\Users\s00160273\Source\Repos\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\player.xnb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Message.xnb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 1.xnb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 2.xnb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 3.xnb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 4.xnb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+E:\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.csproj.CoreCompileInputs.cache
+E:\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+E:\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\player.xnb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Message.xnb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 1.xnb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 2.xnb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 3.xnb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Content\Textures\Player 4.xnb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.csproj.CoreCompileInputs.cache
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+C:\Users\kdryn\Desktop\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb

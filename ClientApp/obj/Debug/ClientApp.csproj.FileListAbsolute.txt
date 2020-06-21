@@ -1,0 +1,233 @@
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\bg.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\collectable.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\CRUtankBase.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\CRUtankTurret.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\IJFtankBase.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\IJFtankTurret.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\PAFtankBase.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\PAFtankTurret.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\projectile.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\RACtankBase.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\RACtankTurret.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\SAStankBase.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\SAStankTurret.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\WMtankBase.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\WMtankTurret.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\keyboardfont.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Message.xnb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.exe.config
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.exe
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.pdb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.exe
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Newtonsoft.Json.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\MonoGame.Framework.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\CommonData.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.MediaFoundation.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XAudio2.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.DXGI.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D11.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct2D1.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XInput.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D9.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.pdb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.exe.config
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Newtonsoft.Json.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\MonoGame.Framework.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\CommonData.pdb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.MediaFoundation.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XAudio2.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.DXGI.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D11.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct2D1.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XInput.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D9.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\MainWindow.g.cs
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\App.g.cs
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\MainWindow.baml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.g.resources
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.exe
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\keyboardfont.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Message.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\bg.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\collectable.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\CRUtankBase.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\CRUtankTurret.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\IJFtankBase.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\IJFtankTurret.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\PAFtankBase.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\PAFtankTurret.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\projectile.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\RACtankBase.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\RACtankTurret.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\SAStankBase.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\SAStankTurret.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\WMtankBase.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\WMtankTurret.xnb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.exe
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\MonoGame.Framework.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\CommonData.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.DXGI.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XInput.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.pdb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\MonoGame.Framework.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\CommonData.pdb
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.DXGI.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XInput.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\MainWindow.g.cs
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\App.g.cs
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\MainWindow.baml
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.g.resources
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\s00160273\Source\Repos\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\bg.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\collectable.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\CRUtankBase.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\CRUtankTurret.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\IJFtankBase.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\IJFtankTurret.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\PAFtankBase.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\PAFtankTurret.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\projectile.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\RACtankBase.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\RACtankTurret.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\SAStankBase.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\SAStankTurret.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\WMtankBase.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\WMtankTurret.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\keyboardfont.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Message.xnb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.exe.config
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.exe
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.pdb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.exe
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Newtonsoft.Json.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\MonoGame.Framework.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\CommonData.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.MediaFoundation.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XAudio2.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.DXGI.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D11.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct2D1.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XInput.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D9.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.pdb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.exe.config
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Newtonsoft.Json.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\MonoGame.Framework.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\CommonData.pdb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.MediaFoundation.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XAudio2.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.DXGI.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D11.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct2D1.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XInput.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D9.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\MainWindow.g.cs
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\App.g.cs
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\MainWindow.baml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.g.resources
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.exe
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\bg.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\collectable.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\CRUtankBase.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\CRUtankTurret.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\IJFtankBase.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\IJFtankTurret.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\PAFtankBase.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\PAFtankTurret.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\projectile.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\RACtankBase.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\RACtankTurret.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\SAStankBase.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\SAStankTurret.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\WMtankBase.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Textures\WMtankTurret.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\keyboardfont.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Content\Message.xnb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.exe.config
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.exe
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\ClientApp.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.exe
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Newtonsoft.Json.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\MonoGame.Framework.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\CommonData.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.MediaFoundation.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XAudio2.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.DXGI.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D11.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct2D1.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XInput.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\GameClient.exe.config
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Newtonsoft.Json.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\MonoGame.Framework.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\CommonData.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.MediaFoundation.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XAudio2.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.DXGI.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct3D11.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.Direct2D1.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\bin\Debug\SharpDX.XInput.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\MainWindow.g.cs
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\App.g.cs
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\MainWindow.baml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.g.resources
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.exe
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientApp\obj\Debug\ClientApp.pdb

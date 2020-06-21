@@ -1,0 +1,238 @@
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\ApplicationInsights.config
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.dll.config
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.pdb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Antlr3.Runtime.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.SqlServer.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Agent.Intercept.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.DependencyCollector.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Web.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.WindowsServer.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.ApplicationInsights.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Core.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Cookies.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Facebook.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Google.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.OAuth.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Twitter.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Web.Infrastructure.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Newtonsoft.Json.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Owin.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Net.Http.Formatting.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Helpers.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.Owin.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.WebHost.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Mvc.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Optimization.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Razor.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Deployment.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Razor.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\WebGrease.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Newtonsoft.Json.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Net.Http.Formatting.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Helpers.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.WebHost.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Mvc.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Optimization.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Razor.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Deployment.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Razor.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Antlr3.Runtime.pdb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.SqlServer.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Core.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Facebook.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Cookies.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.OAuth.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Google.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Twitter.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.Owin.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.ApplicationInsights.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.DependencyCollector.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.WindowsServer.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Web.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Server.csprojResolveAssemblyReference.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Server.csproj.CoreCompileInputs.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Rad302FinalPrj-GTeam.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Rad302FinalPrj-GTeam.pdb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\ApplicationInsights.config
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.dll.config
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.pdb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Antlr3.Runtime.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.SqlServer.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Web.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.WindowsServer.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.ApplicationInsights.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Google.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Web.Infrastructure.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Newtonsoft.Json.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Owin.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Net.Http.Formatting.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Helpers.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.Owin.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.WebHost.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Mvc.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Optimization.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Razor.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Deployment.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Razor.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\WebGrease.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Newtonsoft.Json.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Net.Http.Formatting.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Helpers.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.WebHost.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Mvc.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Optimization.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Razor.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Deployment.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Razor.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Antlr3.Runtime.pdb
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.SqlServer.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Google.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.Owin.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.ApplicationInsights.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.WindowsServer.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Web.xml
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Rad302FinalPrj-GTeam.dll
+E:\Dokumenty\RAD302FinalProject\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Rad302FinalPrj-GTeam.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\ApplicationInsights.config
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.dll.config
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Rad302FinalPrj-GTeam.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Antlr3.Runtime.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.SqlServer.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.DependencyCollector.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Web.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.WindowsServer.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.ApplicationInsights.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Google.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Web.Infrastructure.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Newtonsoft.Json.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Owin.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Net.Http.Formatting.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Helpers.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.Owin.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.WebHost.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Mvc.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Optimization.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Razor.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Deployment.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Razor.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\WebGrease.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Newtonsoft.Json.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Net.Http.Formatting.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Helpers.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.WebHost.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Mvc.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Optimization.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Razor.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Deployment.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.WebPages.Razor.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Antlr3.Runtime.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\EntityFramework.SqlServer.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Google.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\System.Web.Http.Owin.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.ApplicationInsights.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.DependencyCollector.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.WindowsServer.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\bin\Microsoft.AI.Web.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Server.csproj.CopyComplete
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Rad302FinalPrj-GTeam.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\Rad302FinalPrj-GTeam\obj\Debug\Rad302FinalPrj-GTeam.pdb

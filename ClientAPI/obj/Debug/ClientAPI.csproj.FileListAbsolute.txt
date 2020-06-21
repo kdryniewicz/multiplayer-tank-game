@@ -1,0 +1,17 @@
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientAPI\bin\Debug\ClientAPI.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientAPI\bin\Debug\ClientAPI.pdb
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientAPI\bin\Debug\Newtonsoft.Json.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientAPI\bin\Debug\Newtonsoft.Json.xml
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.csprojResolveAssemblyReference.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.csproj.CoreCompileInputs.cache
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.dll
+H:\RAD302FinalProject\RAD302FinalProject\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\bin\Debug\ClientAPI.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\bin\Debug\ClientAPI.pdb
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\bin\Debug\Newtonsoft.Json.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\bin\Debug\Newtonsoft.Json.xml
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.csprojAssemblyReference.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.csproj.CoreCompileInputs.cache
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.csproj.CopyComplete
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.dll
+F:\Portfolio Work\3rd Year\RAD302\Rad302FinalPrj-GTeam\ClientAPI\obj\Debug\ClientAPI.pdb

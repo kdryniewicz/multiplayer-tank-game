@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/bg.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/collectable.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/CRUtankBase.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/CRUtankTurret.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/IJFtankBase.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/IJFtankTurret.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/PAFtankBase.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/PAFtankTurret.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/projectile.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/RACtankBase.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/RACtankTurret.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/SAStankBase.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/SAStankTurret.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/WMtankBase.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Textures/WMtankTurret.png</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/keyboardfont.spritefont</File>
+    <File>E:/Dokumenty/RAD302FinalProject/Rad302FinalPrj-GTeam/GameClient/Content/Message.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

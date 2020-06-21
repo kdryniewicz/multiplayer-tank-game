@@ -1,0 +1,5 @@
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\CommonData\bin\Release\CommonData.dll
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\CommonData\bin\Release\CommonData.pdb
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Release\CommonData.csprojResolveAssemblyReference.cache
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Release\CommonData.dll
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Release\CommonData.pdb
